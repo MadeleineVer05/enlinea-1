@@ -6,11 +6,11 @@
 <img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="120rem" alt="Cat working">
 <br></br>
 
-![issues shield](https://img.shields.io/github/issues/MadeleineVer05/enlinea)
-![forks shield](https://img.shields.io/github/forks/MadeleineVer05/enlinea)
-![starts shield](https://img.shields.io/github/stars/MadeleineVer05/enlinea)
-![licence shield](https://img.shields.io/github/license/MadeleineVer05/enlinea)
-![licence shield](https://img.shields.io/github/v/release/MadeleineVer05/enlinea)
+![issues shield](https://img.shields.io/github/issues/MadeleineVer05/enlinea-1)
+![forks shield](https://img.shields.io/github/forks/MadeleineVer05/enlinea-1)
+![starts shield](https://img.shields.io/github/stars/MadeleineVer05/enlinea-1)
+![licence shield](https://img.shields.io/github/license/MadeleineVer05/enlinea-1)
+![licence shield](https://img.shields.io/github/v/release/MadeleineVer05/enlinea-1)
   
 
 </div>
