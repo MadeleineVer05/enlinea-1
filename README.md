@@ -49,7 +49,7 @@
             </thead>
             <tbody>
               <tr>
-                <th scope="row">Rocio del pilar torres</th>
+                <th scope="row">Rocio del Pilar Torres</th>
                 <td>Scrum Master</td>
                 <td>Líder de grupo – Frontend y backend</td>
               </tr>
